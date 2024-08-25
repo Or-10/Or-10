@@ -32,15 +32,14 @@ Hi, I'm Om Raj, a passionate front-end developer with a knack for creating intui
 
 ### 📊 GitHub Stats
 
-![Om Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Or-10&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Or-10&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Or-10&show_icons=true&theme=radical" alt="Om Raj's GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Or-10&layout=compact&theme=radical" alt="Top Langs" style="width: 48%;" />
+</div>
 
 ### 📫 How to Reach Me
 
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [omraj132002@gmail.com](mailto:omraj132002@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [linkedin.com/in/om-raj](https://www.linkedin.com/in/om-raj)
-- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white): [or10.netlify.app](https://or10.netlify.app)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omraj132002@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-raj)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://or10.netlify.app)
 
----
-
-Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate on something exciting!
