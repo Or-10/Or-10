@@ -34,7 +34,7 @@ Hi, I'm Om Raj, a passionate front-end developer with a knack for creating intui
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Or-10&show_icons=true&theme=radical" alt="Om Raj's GitHub Stats" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Or-10&layout=compact&theme=radical" alt="Top Langs" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Or-10&layout=compact&theme=radical" alt="Top Langs" style="width: 38%;" />
 </div>
 
 ### 📫 How to Reach Me
