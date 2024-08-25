@@ -1,16 +1,44 @@
-## Hi there 👋
+# Om Raj
 
-<!--
-**Or-10/Or-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer | Bangalore, India**
 
-Here are some ideas to get you started:
+Hi, I'm Om Raj, a passionate front-end developer with a knack for creating intuitive and dynamic user interfaces. I enjoy turning complex problems into simple, beautiful, and user-friendly designs. My expertise lies in building responsive and interactive web applications using the latest front-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+
+#### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Front-End
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Back-End & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF?style=for-the-badge&logo=microsoft%20power%20automate&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Om Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Or-10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Or-10&layout=compact&theme=radical)
+
+### 📫 How to Reach Me
+
+- **Email**: [omraj132002@gmail.com](mailto:omraj132002@gmail.com)
+- **LinkedIn**: [linkedin.com/in/om-raj](https://www.linkedin.com/in/om-raj)
+- **Portfolio**: [or10.netlify.app](https://or10.netlify.app)
+
+---
+
+Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate on something exciting!
